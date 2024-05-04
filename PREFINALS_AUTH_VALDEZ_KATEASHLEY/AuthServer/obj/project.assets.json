@@ -770,19 +770,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\STUDENT\\.nuget\\packages\\": {}
+    "C:\\Users\\ashley\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
+      "projectUniqueName": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
       "projectName": "AuthServer",
-      "projectPath": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
-      "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\obj\\",
+      "projectPath": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
+      "packagesPath": "C:\\Users\\ashley\\.nuget\\packages\\",
+      "outputPath": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ashley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -853,7 +853,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

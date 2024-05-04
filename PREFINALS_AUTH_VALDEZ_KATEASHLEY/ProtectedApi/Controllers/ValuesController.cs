@@ -3,46 +3,66 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 
-[Route("api/[controller]")]
-[ApiController]
-public class ValuesController : ControllerBase
+namespace ProtectedApi
 {
-    [HttpGet("userinfo")]
-    [Authorize] // Requires authentication
-    public IActionResult GetUserInfo()
+    [Authorize]
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ValuesController : ControllerBase
     {
-        // Get user information (you can retrieve this from claims)
-        string username = User.Identity.Name; // Assuming username is stored in claims
+        private readonly string _ownerName = "John Doe"; // Replace with the actual owner name
 
-        // Mock user data for demonstration purposes
-        var userInfo = new
+        // GET api/values/about/me
+        [HttpGet("about/me")]
+        public ActionResult<IEnumerable<string>> GetFunFacts()
         {
-            Name = "Kate Ashley Valdez",
-            Section = "32E1",
-            Course = "BSIT"
-        };
+            var funFacts = GenerateFunFacts();
+            return Ok(funFacts);
+        }
 
-        return Ok(userInfo);
-    }
-
-    [HttpGet("funfacts")]
-    public IActionResult GetFunFacts()
-    {
-        // Fun facts about the API creator
-        var funFacts = new List<string>
+        // GET api/values/about
+        [HttpGet("about")]
+        public ActionResult<string> GetOwnerName()
         {
-            "I love programming challenges.",
-            "I enjoy learning new technologies.",
-            "I'm passionate about building useful applications.",
-            "I enjoy hiking in my free time.",
-            "I'm a fan of science fiction novels.",
-            "I like experimenting with different cuisines.",
-            "I enjoy playing musical instruments.",
-            "I'm a coffee enthusiast.",
-            "I love traveling to new places.",
-            "I'm a big fan of open-source software."
-        };
+            return Ok(_ownerName);
+        }
 
-        return Ok(funFacts);
+        // POST api/values/about
+        [HttpPost("about")]
+        public ActionResult<string> PostName([FromBody] string name)
+        {
+            return Ok($"Hi {name} from {_ownerName}");
+        }
+
+        private List<string> GenerateFunFacts()
+        {
+            var funFacts = new List<string>
+            {
+                "The creator loves coding in various languages.",
+                "The creator enjoys outdoor activities like hiking and camping.",
+                "The creator has a pet dog named Max.",
+                "The creator's favorite programming language is C#.",
+                "The creator is passionate about open-source projects.",
+                "The creator is an avid reader and enjoys sci-fi novels.",
+                "The creator is a coffee enthusiast and enjoys trying different blends.",
+                "The creator is fascinated by artificial intelligence and machine learning.",
+                "The creator is a fan of classic rock music.",
+                "The creator enjoys cooking and experimenting with new recipes."
+            };
+
+            // Shuffle the list to randomize fun facts
+            var rng = new Random();
+            int n = funFacts.Count;
+            while (n > 1)
+            {
+                n--;
+                int k = rng.Next(n + 1);
+                string value = funFacts[k];
+                funFacts[k] = funFacts[n];
+                funFacts[n] = value;
+            }
+
+            return funFacts;
+        }
     }
 }
