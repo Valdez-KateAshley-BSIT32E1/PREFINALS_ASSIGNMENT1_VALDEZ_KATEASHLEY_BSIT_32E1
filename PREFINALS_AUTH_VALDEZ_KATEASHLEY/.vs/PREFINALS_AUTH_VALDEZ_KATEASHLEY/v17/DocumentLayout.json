@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:10:13.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
               "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
               "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
               "RelativeToolTip": "ProtectedApi\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T02:05:40.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProtectedApi",
               "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\ProtectedApi.csproj",
               "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.csproj",
