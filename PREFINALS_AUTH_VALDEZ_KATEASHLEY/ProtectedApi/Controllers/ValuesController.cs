@@ -1,68 +1,45 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
 
 namespace ProtectedApi
 {
-    [Authorize]
-    [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    [Route("[controller]")]
+    public class ValueController : ControllerBase
     {
-        private readonly string _ownerName = "John Doe"; // Replace with the actual owner name
+        private readonly string _owner = "Kate Ashley R. Valdez";
+        private readonly Random _random = new Random();
+        private readonly string[] _thingsAboutOwner = new[]
+        {
+            "I have three cats.",
+            "I named my cats; nala, orange, and nutty.",
+            "They are orange, calico, and white cat.",
+            "They are super active.",
+            "I love my cats."
+        };
 
-        // GET api/values/about/me
         [HttpGet("about/me")]
-        public ActionResult<IEnumerable<string>> GetFunFacts()
+        public IActionResult AboutMe()
         {
-            var funFacts = GenerateFunFacts();
-            return Ok(funFacts);
+            var thing = _thingsAboutOwner[_random.Next(_thingsAboutOwner.Length)];
+            return Ok(thing);
         }
 
-        // GET api/values/about
         [HttpGet("about")]
-        public ActionResult<string> GetOwnerName()
+        public IActionResult About()
         {
-            return Ok(_ownerName);
+            return Ok(_owner);
         }
 
-        // POST api/values/about
         [HttpPost("about")]
-        public ActionResult<string> PostName([FromBody] string name)
+        public IActionResult About([FromBody] NameModel model)
         {
-            return Ok($"Hi {name} from {_ownerName}");
+            return Ok($"Hi {model.Name} from {_owner}");
         }
+    }
 
-        private List<string> GenerateFunFacts()
-        {
-            var funFacts = new List<string>
-            {
-                "The creator loves coding in various languages.",
-                "The creator enjoys outdoor activities like hiking and camping.",
-                "The creator has a pet dog named Max.",
-                "The creator's favorite programming language is C#.",
-                "The creator is passionate about open-source projects.",
-                "The creator is an avid reader and enjoys sci-fi novels.",
-                "The creator is a coffee enthusiast and enjoys trying different blends.",
-                "The creator is fascinated by artificial intelligence and machine learning.",
-                "The creator is a fan of classic rock music.",
-                "The creator enjoys cooking and experimenting with new recipes."
-            };
-
-            // Shuffle the list to randomize fun facts
-            var rng = new Random();
-            int n = funFacts.Count;
-            while (n > 1)
-            {
-                n--;
-                int k = rng.Next(n + 1);
-                string value = funFacts[k];
-                funFacts[k] = funFacts[n];
-                funFacts[n] = value;
-            }
-
-            return funFacts;
-        }
+    public class NameModel
+    {
+        public string? Name { get; set; }
     }
 }

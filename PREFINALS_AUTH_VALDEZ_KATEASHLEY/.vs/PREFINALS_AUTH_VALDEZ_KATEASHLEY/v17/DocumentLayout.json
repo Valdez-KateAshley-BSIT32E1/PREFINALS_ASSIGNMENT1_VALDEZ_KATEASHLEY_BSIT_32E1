@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4335320D-FDA7-4D4D-9E90-D7F81880A3F9}|PREFINALS_AUTH_VALDEZ_KATEASHLEY\\PREFINALS_AUTH_VALDEZ_KATEASHLEY.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\prefinals_auth_valdez_kateashley\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4335320D-FDA7-4D4D-9E90-D7F81880A3F9}|PREFINALS_AUTH_VALDEZ_KATEASHLEY\\PREFINALS_AUTH_VALDEZ_KATEASHLEY.csproj|solutionrelative:prefinals_auth_valdez_kateashley\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|d:\\kate\\32e1\\it elective 3\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +55,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Program.cs",
-              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
-              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Program.cs",
-              "RelativeToolTip": "ProtectedApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Title": "jwtSettings.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\jwtSettings.cs",
+              "RelativeDocumentMoniker": "AuthServer\\jwtSettings.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\jwtSettings.cs",
+              "RelativeToolTip": "AuthServer\\jwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T11:36:48.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PREFINALS_AUTH_VALDEZ_KATEASHLEY\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PREFINALS_AUTH_VALDEZ_KATEASHLEY\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T11:24:08.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
-              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T02:10:13.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
-              "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
-              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
-              "RelativeToolTip": "ProtectedApi\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T02:05:40.856Z",
+              "WhenOpened": "2024-05-04T12:37:18.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProtectedApi.csproj",
-              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\ProtectedApi.csproj",
-              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.csproj",
-              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\ProtectedApi.csproj",
-              "RelativeToolTip": "ProtectedApi\\ProtectedApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T02:04:24.402Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:35:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\User.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\User.cs",
+              "RelativeToolTip": "AuthServer\\Core\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:33:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IUserService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:33:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:32:27.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:30:51.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:18:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
+              "ToolTip": "D:\\Kate\\32E1\\IT ELECTIVE 3\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T12:16:16.634Z",
               "EditorCaption": ""
             }
           ]

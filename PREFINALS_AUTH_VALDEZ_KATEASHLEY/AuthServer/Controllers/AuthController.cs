@@ -1,42 +1,31 @@
-﻿using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Mvc;
 using AuthServer.Core;
-using Microsoft.AspNetCore.Mvc;
 
-namespace AuthServer.Controllers
+[ApiController]
+[Route("[controller]")]
+public class AuthController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class AuthController : ControllerBase
+    private readonly IUserService _userService;
+    private readonly IAuthService _authService;
+
+    public AuthController(IUserService userService, IAuthService authService)
     {
-        private readonly IAuthService _authService;
-
-        public AuthController(IAuthService authService)
-        {
-            _authService = authService;
-        }
-
-        [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginRequest model)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest("Invalid request data.");
-            }
-
-            var isValid = await _authService.ValidateCredentialsAsync(model.Username, model.Password);
-            if (!isValid)
-            {
-                return Unauthorized("Invalid username or password.");
-            }
-
-            var token = await _authService.GenerateJwtTokenAsync(model.Username);
-            return Ok(new { Token = token });
-        }
+        _userService = userService;
+        _authService = authService;
     }
 
-    public class LoginRequest
+    [HttpPost("register")]
+    public async Task<IActionResult> Register(User user)
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
+        await _userService.CreateUser(user);
+        return Ok();
+    }
+
+    [HttpPost("login")]
+    public async Task<IActionResult> Login(string username)
+    {
+        var user = await _userService.GetUserByUsername(username);
+        var token = await _authService.GenerateJwtToken(user);
+        return Ok(new { Token = token });
     }
 }
