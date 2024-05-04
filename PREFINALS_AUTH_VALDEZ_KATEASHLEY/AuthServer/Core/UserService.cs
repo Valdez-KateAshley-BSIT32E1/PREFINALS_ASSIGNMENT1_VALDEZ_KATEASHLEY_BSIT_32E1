@@ -1,27 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Threading.Tasks;
 
 namespace AuthServer.Core
 {
     public class UserService : IUserService
     {
-        private Dictionary<string, User> _userStorage;
+        // Implement methods to interact with persistence mechanism (e.g., database)
 
-        public UserService()
+        public Task<User> GetUserByUsernameAsync(string username)
         {
-            _userStorage = new Dictionary<string, User>();
+            throw new NotImplementedException();
         }
 
-        public User GetUserByUsername(string username)
+        public Task<List<User>> GetAllUsersAsync()
         {
-            _userStorage.TryGetValue(username, out User user);
-            return user;
+            throw new NotImplementedException();
         }
 
-        public void CreateUser(string username, string passwordHash)
+        public Task CreateUserAsync(User user)
         {
-            _userStorage[username] = new User(username, passwordHash);
+            throw new NotImplementedException();
+        }
+
+        public Task UpdateUserAsync(User user)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task DeleteUserAsync(string username)
+        {
+            throw new NotImplementedException();
         }
     }
 }

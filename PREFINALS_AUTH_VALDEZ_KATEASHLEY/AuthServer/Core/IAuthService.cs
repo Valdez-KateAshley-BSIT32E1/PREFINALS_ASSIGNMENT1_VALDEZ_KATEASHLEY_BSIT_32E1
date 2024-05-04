@@ -1,10 +1,10 @@
-﻿namespace AuthServer.Core
+﻿using System.Threading.Tasks;
+
+namespace AuthServer.Core
 {
     public interface IAuthService
-
     {
-        string GenerateToken(string username);
+        Task<string> GenerateJwtTokenAsync(string username);
+        Task<bool> ValidateCredentialsAsync(string username, string password);
     }
 }
-
- 
