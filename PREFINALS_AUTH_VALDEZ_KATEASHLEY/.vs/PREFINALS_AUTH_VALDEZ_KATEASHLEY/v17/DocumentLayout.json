@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C041E1A8-0EF3-4645-AEAC-61BDDF30AB73}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AuthServer\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\Startup.cs",
+              "RelativeToolTip": "ProtectedApi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:43:12.12Z",
+              "WhenOpened": "2024-05-04T02:05:40.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthServer",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
-              "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\AuthServer.csproj",
-              "RelativeToolTip": "AuthServer\\AuthServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABeAAAA",
+              "Title": "ProtectedApi",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\ProtectedApi.csproj",
+              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.csproj",
+              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\ProtectedApi\\ProtectedApi.csproj",
+              "RelativeToolTip": "ProtectedApi\\ProtectedApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T01:28:26.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\AuthService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\AuthService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\AuthService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:21:40.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\UserService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\UserService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\UserService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:18:44.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:15:50.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IUserService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\IUserService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:13:13.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\User.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Core\\User.cs",
-              "RelativeToolTip": "AuthServer\\Core\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:11:54.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvyoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:28:51.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\appsettings.json",
-              "RelativeToolTip": "AuthServer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T01:00:17.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Secret.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Secret.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Secret.cs",
-              "RelativeToolTip": "AuthServer\\Secret.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:42:54.728Z",
+              "WhenOpened": "2024-05-04T02:04:24.402Z",
               "EditorCaption": ""
             }
           ]
