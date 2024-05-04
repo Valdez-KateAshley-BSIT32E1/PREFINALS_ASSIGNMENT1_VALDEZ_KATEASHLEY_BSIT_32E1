@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\new folder\\prefinals_assignment1_valdez_kateashley_bsit_32e1\\prefinals_auth_valdez_kateashley\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446213BE-57D0-4B1F-B220-6FD305BDB20E}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Secret.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\New folder\\PREFINALS_ASSIGNMENT1_VALDEZ_KATEASHLEY_BSIT_32E1\\PREFINALS_AUTH_VALDEZ_KATEASHLEY\\AuthServer\\Secret.cs",
+              "RelativeToolTip": "AuthServer\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:42:54.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
